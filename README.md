@@ -1,11 +1,25 @@
 # COMBAAT_ODE
 
+
+
+**Initial conditions table**
+
+
 |Param  | Explanation | Range | Source |
 |:--- |:--- |:--- | :--- | 
 |NC |   Explanation | Range | Source |
 |NV |   Explanation | Range | Source |
 |NW |   Explanation | Range | Source |
-|birth.c  |   Explanation | Range | Source |
+|equil_vector_pop |   Explanation | Range | Source |
+
+
+**Parameter Table**
+
+
+
+|Param  | Explanation | Range | Source |
+|:--- |:--- |:--- | :--- | 
+|birth.c  |   Explanation | Range | [Hargrove et al 2012](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0001615), [Hargrove et al 2012](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0001615), [Hargrove et al 2012](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0001615) |
 |biterate |   Explanation | Range | Source |
 |prob.infection |   Explanation | Range | Source |
 |fit.adj  |   Explanation | Range | Source |
@@ -29,9 +43,12 @@
 |gamma.w  |   Explanation | Range | Source |
 |death.w  |   Explanation | Range | Source |
 |sigma.w  |   Explanation | Range | Source |
-|equil_vector_pop |   Explanation | Range | Source |
 |waning |   Explanation | Range | Source |
 |waning.f2s |   Explanation | Range | Source |
 |new.prop |   Explanation | Range | Source |
 |ten2fed  |   Explanation | Range | Source |
 |prop.prophylaxis |   Explanation | Range | Source |
+
+
+
+
